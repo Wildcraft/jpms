@@ -11,7 +11,11 @@
 
     <modules>
         <module>01_greetings</module>
+        <module>02_restclient</module>
     </modules>
 
 
+    <properties>
+        <httpclient.version>4.5.3</httpclient.version>
+    </properties>
 </project>
